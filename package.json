@@ -1,0 +1,24 @@
+{
+  "name": "zenzo-gachapon",
+  "version": "1.0.0",
+  "description": "A discord bot that accepts ZNZ coins and spits out an item to the user, powered by the ZENZO Forge",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZENZO-Ecosystem/zenzo-gachapon.git"
+  },
+  "author": "JSKitty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZENZO-Ecosystem/zenzo-gachapon/issues"
+  },
+  "homepage": "https://github.com/ZENZO-Ecosystem/zenzo-gachapon#readme",
+  "dependencies": {
+    "bitcoin-rpc-promise": "^2.1.6",
+    "discord.js": "^12.0.2",
+    "superagent": "^5.2.2"
+  }
+}
